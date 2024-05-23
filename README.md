@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prabhveer Singh Khurana 
-- 👀 I’m interested in Competitive Coding, ML, Android App Dev, Web Dev, etc.
-- 🌱 I’m currently learning Android App Development 
+- 👀 I’m interested in Data Science and Data Engineering
+- 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...prabhveer01@gmail.com
 
